@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FAISAL-PC</Machine>
+    <WindowsUser>faisal</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>dc75b682-0255-41b8-8307-7499d7ba404a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\bin\Debug\UniversalJupiter.Windows.exe">
+      <PackagePath>UniversalJupiter.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\bin\Debug\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\bin\Debug\PhotoCapturePage.xbf">
+      <PackagePath>PhotoCapturePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\bin\Debug\VideoCapturePage.xbf">
+      <PackagePath>VideoCapturePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\bin\Debug\UniversalJupiter.Windows.xr.xml">
+      <PackagePath>UniversalJupiter.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\faisal\Desktop\GeekayGames\BasicCapturing\BasicCapturing\UniversalJupiter\UniversalJupiter.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
